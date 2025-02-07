@@ -52,7 +52,38 @@
   color: white;
   font-size: 1.7rem;
 }
+
 .LandingMainContainer > div:nth-child(2) img {
   height: 80vh;
   width: auto;
 }
+
+/* .AuthPage {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Signincard {
+  margin: auto;
+  background-color: rgb(52, 89, 224);
+  width: 600px;
+  padding: 2rem;
+}
+
+.Signincard h1 {
+  color: white;
+  font-size: 3rem;
+}
+
+.Signincard div {
+  width: 530px;
+  margin-block: 1rem;
+}
+
+.Signincard div input {
+  padding: 1rem;
+  width: 530px;
+  margin-block: 1rem;
+} */
